@@ -26,7 +26,7 @@
 your_project_name/
 ├── allure-results/  # Stores test execution results captured by Selenium
 ├── allure-report/    # Generated Allure reports are placed here
-├── test_*.py        # Your automated test cases (written with pytest)  (Moved from tests/)
+├── _test.py        # Your automated test cases (written with pytest)
 ├── generate_allure_report.py  # Script for generating Allure reports
 └── README.md         # This file (instructions and usage)
 ```
